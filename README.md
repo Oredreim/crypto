@@ -47,5 +47,5 @@ options:
 
 **©** Cristian Pineros. Systems Engineering student of the [Colombian School of Engineering Julio Garavito](https://www.escuelaing.edu.co/es/).
 
-Licensed under the [GNU General Public License](https://github.com/Oredreim/ieti-lab8/blob/main/LICENSE).
+Licensed under the [GNU General Public License](https://github.com/Oredreim/crypto/blob/main/LICENSE).
 
